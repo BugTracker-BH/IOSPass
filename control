@@ -1,0 +1,10 @@
+Package: com.tweakbounty.nostrongpass
+Name: NoStrongPass
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Description: Stops Safari/WebKit from popping up the "Automatic Strong Password" suggestion on password fields.
+Maintainer: TweakBounty
+Author: TweakBounty
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ellekit, firmware (>= 14.0)
+Homepage: https://www.reddit.com/r/TweakBounty/
